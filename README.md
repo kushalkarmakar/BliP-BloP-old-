@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="discord_bot.py" src="https://i.alexflipnote.dev/MiFAeTE.png" width="750px">
+  BliP BloP Bot is Here
 </p>
 
-Do you need more help? Visit my server here: **https://discord.gg/DpxkY3x**
+Do you need more help? Visit my server here: **https://discord.gg/9dc2FfF**
 
 ## Requirements
 - Python 3.6 and up - https://www.python.org/downloads/
@@ -13,11 +13,10 @@ Keep [this](https://discordpy.readthedocs.io/en/latest/) saved somewhere, as thi
 All you need to know about the library is defined inside here, even code that I don't use in this example is here.
 
 ## How to setup
-1. Make a bot [here](https://discordapp.com/developers/applications/me) and grab the token
-![Image_Example1](https://i.alexflipnote.dev/f9668b.png)
+1. Make a bot and grab the token
+2. Edit the **config.json**, then fill in the required spots, such as token, prefix and game
 
-2. Rename the file **config.json.example** to **config.json**, then fill in the required spots, such as token, prefix and game
-
+For VPS s
 3. To install what you need, do **pip install -r requirements.txt**<br>
 (If that doesn't work, do **python -m pip install -r requirements.txt**)<br>
 `NOTE: Use pip install with Administrator/sudo`
@@ -69,8 +68,3 @@ docker-compose <command>
   reboot  Reboot the bot without shutting it down or rebuilding
   logs    Check the logs made by the bot.
 ```
-
-### Repl.it
-You can run this on Repl.it!
-[![Run on Repl.it](https://repl.it/badge/github/AlexFlipnote/discord_bot.py)](https://repl.it/github/AlexFlipnote/discord_bot.py)
-Make sure to setup **config.json** in the way stated above.
